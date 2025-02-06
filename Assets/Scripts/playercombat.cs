@@ -1,24 +1,24 @@
 using UnityEngine;
 
-public class playercombat : MonoBehaviour
+public class PlayerCombat : MonoBehaviour
 {
+    Animator animator;
 
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
 
-    public Animator animator;
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-
-            attack();
-
+            Attack();
         }
+    }
 
-        void attack()
-        {
-
-            animator.SetTrigger ("attackfront");
-
-        }
+    void Attack()
+    {
+        animator.SetTrigger("attack");
     }
 }

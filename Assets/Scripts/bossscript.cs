@@ -29,6 +29,6 @@ public class bossscript : MonoBehaviour
     {
         int attack = Random.Range(0, 4);
         Animator.SetTrigger("Attack" + attack);
-
+        print(attack);
     }
 }
