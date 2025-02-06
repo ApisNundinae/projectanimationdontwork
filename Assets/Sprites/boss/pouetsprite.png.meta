@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: 18172ef8f5b6bbc408aa6102bf9e570c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7206886862706363964
+    second: pouetsprite_0
+  - first:
+      213: -5986883049223210536
+    second: pouetsprite_1
+  - first:
+      213: 6109036302108608600
+    second: pouetsprite_2
+  - first:
+      213: -4884464859641452547
+    second: pouetsprite_3
+  - first:
+      213: 1178192754657817939
+    second: pouetsprite_4
+  - first:
+      213: -2815159906560884111
+    second: pouetsprite_5
+  - first:
+      213: 8563014624501934903
+    second: pouetsprite_6
+  - first:
+      213: -1220532282458234111
+    second: pouetsprite_7
+  - first:
+      213: 2635596707017069596
+    second: pouetsprite_8
+  - first:
+      213: -111891939160168099
+    second: pouetsprite_9
+  - first:
+      213: -2487618096221117365
+    second: pouetsprite_10
+  - first:
+      213: 8005361124111714086
+    second: pouetsprite_11
+  - first:
+      213: -6366809064764271515
+    second: pouetsprite_12
+  - first:
+      213: -37758076822869667
+    second: pouetsprite_13
+  - first:
+      213: -4604647029431073623
+    second: pouetsprite_14
+  - first:
+      213: -3983501570087804295
+    second: pouetsprite_15
+  - first:
+      213: -5701765743813977842
+    second: pouetsprite_16
+  - first:
+      213: -2947842202628428994
+    second: pouetsprite_17
+  - first:
+      213: 8913667553777056912
+    second: pouetsprite_18
+  - first:
+      213: -2430961139442308533
+    second: pouetsprite_19
+  - first:
+      213: 9033620758821780205
+    second: pouetsprite_20
+  - first:
+      213: -6757153103846306505
+    second: pouetsprite_21
+  - first:
+      213: -9107786464410052661
+    second: pouetsprite_22
+  - first:
+      213: 7498115623215983666
+    second: pouetsprite_23
+  - first:
+      213: 6410685470853952354
+    second: pouetsprite_24
+  - first:
+      213: 155582118970065411
+    second: pouetsprite_25
+  - first:
+      213: 430272193532636666
+    second: pouetsprite_26
+  - first:
+      213: 2122523729802433586
+    second: pouetsprite_27
+  - first:
+      213: -4355475605179904329
+    second: pouetsprite_28
+  - first:
+      213: 8203430808157757424
+    second: pouetsprite_29
+  - first:
+      213: 3099173859026052574
+    second: pouetsprite_30
+  - first:
+      213: -600235570336822707
+    second: pouetsprite_31
+  - first:
+      213: -7470406187414297984
+    second: pouetsprite_32
+  - first:
+      213: -4398717849055631012
+    second: pouetsprite_33
+  - first:
+      213: 4142683708248871898
+    second: pouetsprite_34
+  - first:
+      213: -1628761761652457866
+    second: pouetsprite_35
+  - first:
+      213: 3222677592803489563
+    second: pouetsprite_36
+  - first:
+      213: 2591302294499595488
+    second: pouetsprite_37
+  - first:
+      213: -4000432368696997496
+    second: pouetsprite_38
+  - first:
+      213: -6865145188513708070
+    second: pouetsprite_39
+  - first:
+      213: -8582977566916225416
+    second: pouetsprite_40
+  - first:
+      213: -2652676795175857073
+    second: pouetsprite_41
+  - first:
+      213: 4100377215956771929
+    second: pouetsprite_42
+  - first:
+      213: 2614624581275173353
+    second: pouetsprite_43
+  - first:
+      213: 6506246271477091463
+    second: pouetsprite_44
+  - first:
+      213: 6466839202908672417
+    second: pouetsprite_45
+  - first:
+      213: 8299379345696519601
+    second: pouetsprite_46
+  - first:
+      213: -5735959916223571906
+    second: pouetsprite_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pouetsprite_0
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1880
+        width: 344
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eca0cfa61040460800000000000000
+      internalID: 7206886862706363964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1874
+        width: 496
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93e3b26915aeca0800000000000000
+      internalID: -5986883049223210536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_2
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1875
+        width: 399
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85846235628a7c450800000000000000
+      internalID: 6109036302108608600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_3
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 1880
+        width: 344
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76133d615e63cb0800000000000000
+      internalID: -4884464859641452547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1094
+        width: 399
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355715a6118c95010800000000000000
+      internalID: 1178192754657817939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_5
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1278
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1724487fafa8ee8d0800000000000000
+      internalID: -2815159906560884111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_6
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1266
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ba9e3ae60f5d670800000000000000
+      internalID: 8563014624501934903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_7
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 1278
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1032e231b5ccf0fe0800000000000000
+      internalID: -1220532282458234111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_8
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 1266
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1411f4bd35839420800000000000000
+      internalID: 2635596707017069596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_9
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1261
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e029cfda727ef0800000000000000
+      internalID: -111891939160168099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_10
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1261
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4428ed75843a7dd0800000000000000
+      internalID: -2487618096221117365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_11
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1093
+        width: 496
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62786653781c81f60800000000000000
+      internalID: 8005361124111714086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_12
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1174
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5641dfd63ec84a7a0800000000000000
+      internalID: -6366809064764271515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_13
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1213
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59229baa3bd97ff0800000000000000
+      internalID: -37758076822869667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_14
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 1174
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a404b65ce10910c0800000000000000
+      internalID: -4604647029431073623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_15
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 1213
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a4b07d62c7b8c0800000000000000
+      internalID: -3983501570087804295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_16
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1084
+        width: 595
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e091a77e3424fd0b0800000000000000
+      internalID: -5701765743813977842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_17
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 1175
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b6d6292292717d0800000000000000
+      internalID: -2947842202628428994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_18
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1084
+        width: 595
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c7eccd965b3bb70800000000000000
+      internalID: 8913667553777056912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_19
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1175
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a23c439bd734ed0800000000000000
+      internalID: -2430961139442308533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 497
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaba2dc73edd5d70800000000000000
+      internalID: 9033620758821780205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 485
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d00509d05c932a0800000000000000
+      internalID: -6757153103846306505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_22
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 497
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc75aba3774aa9180800000000000000
+      internalID: -9107786464410052661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_23
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 485
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c689ebe68ae0860800000000000000
+      internalID: 7498115623215983666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_24
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 497
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f101787457f850800000000000000
+      internalID: 6410685470853952354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_25
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 485
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020d96ec1db82200800000000000000
+      internalID: 155582118970065411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_26
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 497
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdad34c742a8f500800000000000000
+      internalID: 430272193532636666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_27
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 485
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234163e2618b47d10800000000000000
+      internalID: 2122523729802433586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 480
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be4f5d630e3e83c0800000000000000
+      internalID: -4355475605179904329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_29
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 480
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff1dbb3bd078d170800000000000000
+      internalID: 8203430808157757424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_30
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 480
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5ac64643a720b20800000000000000
+      internalID: 3099173859026052574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_31
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 480
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a0580dde88ba7f0800000000000000
+      internalID: -600235570336822707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 393
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0826a470729c35890800000000000000
+      internalID: -7470406187414297984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_33
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 432
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c596ed3fb6d94f2c0800000000000000
+      internalID: -4398717849055631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_34
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 393
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d8fe32e4cd7930800000000000000
+      internalID: 4142683708248871898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_35
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 432
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e37fcaec97569e0800000000000000
+      internalID: -1628761761652457866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_36
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 393
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17b9a8323049bc20800000000000000
+      internalID: 3222677592803489563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_37
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 432
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49d4125b726f320800000000000000
+      internalID: 2591302294499595488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_38
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 393
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88947d3b4fb9b78c0800000000000000
+      internalID: -4000432368696997496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_39
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 432
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7882bf2da1ab0a0800000000000000
+      internalID: -6865145188513708070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 303
+        width: 595
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876dfc0a06323e880800000000000000
+      internalID: -8582977566916225416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_41
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 394
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f441f9f528ccf2bd0800000000000000
+      internalID: -2652676795175857073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_42
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 303
+        width: 595
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954653a6a5777e830800000000000000
+      internalID: 4100377215956771929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_43
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 394
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e149eb2433094420800000000000000
+      internalID: 2614624581275173353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_44
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 303
+        width: 595
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c0a982384da4a50800000000000000
+      internalID: 6506246271477091463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_45
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 394
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a111f40ef3deb950800000000000000
+      internalID: 6466839202908672417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_46
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 303
+        width: 595
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5747cfa815d2370800000000000000
+      internalID: 8299379345696519601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pouetsprite_47
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 394
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385d9bb8d6c560b0800000000000000
+      internalID: -5735959916223571906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

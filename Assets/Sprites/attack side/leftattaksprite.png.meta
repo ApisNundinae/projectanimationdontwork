@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 7bc5bc077abbea64fa8f71aba1db27cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 634283379626718425
+    second: leftattaksprite_0
+  - first:
+      213: 6760998271404958219
+    second: leftattaksprite_1
+  - first:
+      213: -7148247701972527083
+    second: leftattaksprite_2
+  - first:
+      213: 8721402082731427626
+    second: leftattaksprite_3
+  - first:
+      213: -4985955851061282202
+    second: leftattaksprite_4
+  - first:
+      213: 2298833023462036519
+    second: leftattaksprite_5
+  - first:
+      213: 1214038132164390310
+    second: leftattaksprite_6
+  - first:
+      213: -5019899374518882695
+    second: leftattaksprite_7
+  - first:
+      213: 2592557207401657127
+    second: leftattaksprite_8
+  - first:
+      213: 5137438671976927878
+    second: leftattaksprite_9
+  - first:
+      213: -4471069591334546710
+    second: leftattaksprite_10
+  - first:
+      213: -327012959788609075
+    second: leftattaksprite_11
+  - first:
+      213: 3170562998341383169
+    second: leftattaksprite_12
+  - first:
+      213: 1071298764298973301
+    second: leftattaksprite_13
+  - first:
+      213: -8450280403979304787
+    second: leftattaksprite_14
+  - first:
+      213: 689400970785909293
+    second: leftattaksprite_15
+  - first:
+      213: 5763182432391685240
+    second: leftattaksprite_16
+  - first:
+      213: -6937733619088261547
+    second: leftattaksprite_17
+  - first:
+      213: -8019423245655157081
+    second: leftattaksprite_18
+  - first:
+      213: 5133618772215713476
+    second: leftattaksprite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leftattaksprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2692
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae256f6b0eabe64682bf2fe11665e79
+      internalID: -1239928000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_1
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2692
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3827329bf7a2c4e9dee4c059e9ffbb
+      internalID: -793236745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_2
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2692
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcdd0b612a3c22429bc2fce717caa96
+      internalID: 1608562816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_3
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2692
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f5a471120399141940ff7039f678ce
+      internalID: -385624449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdac33899931174897d01f4ea956793
+      internalID: 1334499625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1346
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d048980b703384d83fda56ce7fe386
+      internalID: -946408414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_6
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1346
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2269730920b1e4d93f024a5cc7d04d
+      internalID: -1252446752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_7
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1346
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dc2b557509a964780831f6e690b43d
+      internalID: -1901376228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f840be36398e35f4b87078428320ec97
+      internalID: 1876450407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_9
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00577f9e10453e43badacdf92471003
+      internalID: -1320207786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59276f3ea24ee429677e3913e79b75
+      internalID: -495823408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftattaksprite_11
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 1250
+        height: 1346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2476c608a2259d64d96d349f6b2cdb97
+      internalID: -814928513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 49ac67488c9b58f4688ecb43e360482e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leftattaksprite_0: -1239928000
+      leftattaksprite_1: -793236745
+      leftattaksprite_10: -495823408
+      leftattaksprite_11: -814928513
+      leftattaksprite_2: 1608562816
+      leftattaksprite_3: -385624449
+      leftattaksprite_4: 1334499625
+      leftattaksprite_5: -946408414
+      leftattaksprite_6: -1252446752
+      leftattaksprite_7: -1901376228
+      leftattaksprite_8: 1876450407
+      leftattaksprite_9: -1320207786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

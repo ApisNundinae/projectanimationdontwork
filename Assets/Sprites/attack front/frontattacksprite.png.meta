@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 572012ef6cc327045bb0e1dfe5f16679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8916767911051081249
+    second: frontattacksprite_0
+  - first:
+      213: 4096798047887669451
+    second: frontattacksprite_1
+  - first:
+      213: 7375066232583086671
+    second: frontattacksprite_2
+  - first:
+      213: -1629489186301950648
+    second: frontattacksprite_3
+  - first:
+      213: 8706825788836887230
+    second: frontattacksprite_4
+  - first:
+      213: 7613537514048535868
+    second: frontattacksprite_5
+  - first:
+      213: 2856232692778038061
+    second: frontattacksprite_6
+  - first:
+      213: -6642252637625936236
+    second: frontattacksprite_7
+  - first:
+      213: 35935797942448982
+    second: frontattacksprite_8
+  - first:
+      213: -5332809760339420719
+    second: frontattacksprite_9
+  - first:
+      213: -4851520622328058343
+    second: frontattacksprite_10
+  - first:
+      213: -5272435416615312973
+    second: frontattacksprite_11
+  - first:
+      213: -9005709483465223238
+    second: frontattacksprite_12
+  - first:
+      213: 8679967434073915442
+    second: frontattacksprite_13
+  - first:
+      213: 7422858121429268009
+    second: frontattacksprite_14
+  - first:
+      213: -6789561979769648844
+    second: frontattacksprite_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frontattacksprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb067fe7c481904a8355864979ac07d
+      internalID: -193182020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5600
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e97bdf9380ca14aa711e66e728fff0
+      internalID: -1611591845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5600
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c77471308ccf346a47db1feda07075
+      internalID: -830958864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5600
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4564654b605aa64d94fe82d7cb13a10
+      internalID: 1184093938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b593fda42223b240a8d08f1ee99d2f3
+      internalID: -475037702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2800
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d90eaf6aa5a649a42036596e5b071
+      internalID: -614989600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2800
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d7473f955ace4c84c68e5e47b48df
+      internalID: 2139941377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_7
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2800
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c24e505ccb07c24d8977cd3b2a5f5c4
+      internalID: 1779409658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c42e6117d70144afe87cb488d0eec
+      internalID: 1389143023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec7bef254c58d74cb5551e6bbc6fe8e
+      internalID: -1611070807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a733a8da0f63e344185b7f3a6005000a
+      internalID: 2022659097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontattacksprite_11
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 1200
+        height: 2800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd650b7e6ec6b8a4ab899796b4e0579d
+      internalID: 860810782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 718d837f4dec0854bbf05b3ebeb433b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frontattacksprite_0: -193182020
+      frontattacksprite_1: -1611591845
+      frontattacksprite_10: 2022659097
+      frontattacksprite_11: 860810782
+      frontattacksprite_2: -830958864
+      frontattacksprite_3: 1184093938
+      frontattacksprite_4: -475037702
+      frontattacksprite_5: -614989600
+      frontattacksprite_6: 2139941377
+      frontattacksprite_7: 1779409658
+      frontattacksprite_8: 1389143023
+      frontattacksprite_9: -1611070807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: e2c2923274df2e441beb0e9613153d44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2926219534738050551
+    second: backrunsprite_0
+  - first:
+      213: 7832202963714327475
+    second: backrunsprite_1
+  - first:
+      213: -2656090160762581104
+    second: backrunsprite_2
+  - first:
+      213: 4281512526616268312
+    second: backrunsprite_3
+  - first:
+      213: -4893623386767957871
+    second: backrunsprite_4
+  - first:
+      213: -5656871883636370292
+    second: backrunsprite_5
+  - first:
+      213: -1684040012070540090
+    second: backrunsprite_6
+  - first:
+      213: -326419572073412655
+    second: backrunsprite_7
+  - first:
+      213: -5030919205101900368
+    second: backrunsprite_8
+  - first:
+      213: 7998347130712088491
+    second: backrunsprite_9
+  - first:
+      213: -6243288311103765962
+    second: backrunsprite_10
+  - first:
+      213: -3948120465606752088
+    second: backrunsprite_11
+  - first:
+      213: -956734422361323465
+    second: backrunsprite_12
+  - first:
+      213: -3127229061879933585
+    second: backrunsprite_13
+  - first:
+      213: 4118406833224707903
+    second: backrunsprite_14
+  - first:
+      213: -7123228021502374797
+    second: backrunsprite_15
+  - first:
+      213: 377278991510285640
+    second: backrunsprite_16
+  - first:
+      213: -9121186370524801178
+    second: backrunsprite_17
+  - first:
+      213: -8425106958237572308
+    second: backrunsprite_18
+  - first:
+      213: -8707465530576084000
+    second: backrunsprite_19
+  - first:
+      213: -7641428509167929916
+    second: backrunsprite_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backrunsprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7416
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3331c59af6e123b4dabe330b8d55a2f9
+      internalID: -1802614679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 7416
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff97196621663f40895de5b5cdf1c12
+      internalID: -1186590736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_2
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 7416
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c97dd419e60b648b1d9240935c5acc
+      internalID: -920842900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_3
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 7416
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05944d912f4704a87cc72e34e788dc
+      internalID: 1383245459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_4
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 7416
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beef91c6ba8fc444b27b350df4102e8
+      internalID: -367141945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5562
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b7207bd05703f429f4db4712227b53
+      internalID: 136768391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5562
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ad111550c23d44aac485c5b99f2b7
+      internalID: -1642075717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 5562
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb1e2a0a6ca8f64ea91dcc3be309716
+      internalID: 416611758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_8
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 5562
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902cea22634409f4da1fa72494668809
+      internalID: -1803023605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_9
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 5562
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbed29f2b90fd4bbcfdde0ceb9f33f
+      internalID: 1948539176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3708
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382146ed05ecd949b0f04a276eedcec
+      internalID: 1191253718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3708
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a4dd763d22c4348881af84d142843d
+      internalID: -1720620675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_12
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 3708
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa769c3c7aa263a42951f26e217d3034
+      internalID: 379340197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_13
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3708
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e071be86d78414fa2d8842fe19996d
+      internalID: 551939611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_14
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 3708
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27850a85a2293074d8c0eaf9e6efeda4
+      internalID: 1290486503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56756f8d835848a488ee2f6f3a0307ae
+      internalID: -251551158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_16
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1854
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f88b10d00a9df0439ad004336d5ef1f
+      internalID: -2059055106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_17
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1854
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0f8b570a6b9c74d8f8ec8776bfa772
+      internalID: -1227079595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_18
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1854
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac91ea296ce354e8c071762f3d9a10
+      internalID: -590899102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_19
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1854
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185fbae274dbbe74c801548646695303
+      internalID: 1945378962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backrunsprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 714
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2a9ef5d54d944aaada18801e1119c
+      internalID: 913344366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a939a897ecc94ad46a92942ac61887c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      backrunsprite_0: -1802614679
+      backrunsprite_1: -1186590736
+      backrunsprite_10: 1191253718
+      backrunsprite_11: -1720620675
+      backrunsprite_12: 379340197
+      backrunsprite_13: 551939611
+      backrunsprite_14: 1290486503
+      backrunsprite_15: -251551158
+      backrunsprite_16: -2059055106
+      backrunsprite_17: -1227079595
+      backrunsprite_18: -590899102
+      backrunsprite_19: 1945378962
+      backrunsprite_2: -920842900
+      backrunsprite_20: 913344366
+      backrunsprite_3: 1383245459
+      backrunsprite_4: -367141945
+      backrunsprite_5: 136768391
+      backrunsprite_6: -1642075717
+      backrunsprite_7: 416611758
+      backrunsprite_8: -1803023605
+      backrunsprite_9: 1948539176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

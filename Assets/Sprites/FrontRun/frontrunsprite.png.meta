@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 3e2ee0e32b382554a923e1fe7d042379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2607190304704715000
+    second: frontrunsprite_0
+  - first:
+      213: -4336271489348740538
+    second: frontrunsprite_1
+  - first:
+      213: 870500817412925395
+    second: frontrunsprite_2
+  - first:
+      213: -6760105638397663551
+    second: frontrunsprite_3
+  - first:
+      213: 942682784901248787
+    second: frontrunsprite_4
+  - first:
+      213: 934959546268031648
+    second: frontrunsprite_5
+  - first:
+      213: 5629216772044454754
+    second: frontrunsprite_6
+  - first:
+      213: 6261121647835613579
+    second: frontrunsprite_7
+  - first:
+      213: -9117452319014605200
+    second: frontrunsprite_8
+  - first:
+      213: 4289589812943271511
+    second: frontrunsprite_9
+  - first:
+      213: -4374072659572098391
+    second: frontrunsprite_10
+  - first:
+      213: -7291247468357119445
+    second: frontrunsprite_11
+  - first:
+      213: 618409834083524069
+    second: frontrunsprite_12
+  - first:
+      213: 611493414201680004
+    second: frontrunsprite_13
+  - first:
+      213: 8131524525123425358
+    second: frontrunsprite_14
+  - first:
+      213: -8919041619488597674
+    second: frontrunsprite_15
+  - first:
+      213: -7616530342949548663
+    second: frontrunsprite_16
+  - first:
+      213: -2824040125716370331
+    second: frontrunsprite_17
+  - first:
+      213: 6612709816003615641
+    second: frontrunsprite_18
+  - first:
+      213: 2682112686197776975
+    second: frontrunsprite_19
+  - first:
+      213: 8715832155216961165
+    second: frontrunsprite_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frontrunsprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7408
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e4dbd023ae0848bfd8f10641054b3
+      internalID: 1327089962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 7408
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1054911c0e9644c91d3c86f1485f7a
+      internalID: -1108014491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_2
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 7408
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45be905b81b974ab490ba270bc14f9
+      internalID: 201441557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_3
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 7408
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9462bf1bfc768c242858835df4ab5fb2
+      internalID: -1306580417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_4
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 7408
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b769494f8c96ca41807c6e1712ea021
+      internalID: -1531574795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5556
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180e9d321add0048b833e449dd7dd78
+      internalID: -1299390298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5556
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8e434b43100749997279c5490472c
+      internalID: 1350540231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 5556
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e45917d43aa174419ed3947f6bec380
+      internalID: -1001990126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_8
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 5556
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d402f32c64873b44ea677fcf79940fc2
+      internalID: -445236738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_9
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 5556
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3266b6f20643184468a110008dcd2499
+      internalID: 1778989697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3704
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef181f982054eb4183029ded8e41289
+      internalID: -126557938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3704
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c452705cbbc18459e6a4a063f6db51
+      internalID: -219408784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_12
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 3704
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089f0343f5dfd546b5136b69046b479
+      internalID: -1372576242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_13
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3704
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03326ee4f818d694bb5edf58b349ef38
+      internalID: -1542502381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_14
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 3704
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a5015d17db08a4caf799cc5bebab7c
+      internalID: -975359890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1852
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3184faeeba2442af547788e14cce6
+      internalID: -1111409967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_16
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1852
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9f923e52b15f409c0e7c3170dd660
+      internalID: -943614656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_17
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1852
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623bec6a7e4468478f36c27b5c57b6f
+      internalID: -2138144028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_18
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1852
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b912a84c0c65eec4eaf4ccd2f44771ff
+      internalID: -1767140138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_19
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1852
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb72010c44a4141a65eabeaaf1c21b
+      internalID: -1493219382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontrunsprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 714
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d38754f0d077b44f8f0a15fc9e75da9
+      internalID: 1579386617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00cb4ab9b31f77545b5a7944087f8228
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frontrunsprite_0: 1327089962
+      frontrunsprite_1: -1108014491
+      frontrunsprite_10: -126557938
+      frontrunsprite_11: -219408784
+      frontrunsprite_12: -1372576242
+      frontrunsprite_13: -1542502381
+      frontrunsprite_14: -975359890
+      frontrunsprite_15: -1111409967
+      frontrunsprite_16: -943614656
+      frontrunsprite_17: -2138144028
+      frontrunsprite_18: -1767140138
+      frontrunsprite_19: -1493219382
+      frontrunsprite_2: 201441557
+      frontrunsprite_20: 1579386617
+      frontrunsprite_3: -1306580417
+      frontrunsprite_4: -1531574795
+      frontrunsprite_5: -1299390298
+      frontrunsprite_6: 1350540231
+      frontrunsprite_7: -1001990126
+      frontrunsprite_8: -445236738
+      frontrunsprite_9: 1778989697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
