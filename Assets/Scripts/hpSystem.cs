@@ -9,6 +9,8 @@ public class hpSystem : MonoBehaviour
     public Sprite twoHearts;
     public Sprite oneHeart;
 
+    public GameObject hearts1, hearts2, hearts3;
+
     private health playerHealth;
 
     void Awake()
@@ -25,21 +27,29 @@ public class hpSystem : MonoBehaviour
     }
     public void UpdateHealthUI()
     {
-                if (playerHealth == null) // 🔥 `null` 체크 추가
+        if (playerHealth == null) // 🔥 `null` 체크 추가
         {
             Debug.LogError("⚠ `playerHealth`가 null입니다! `health`가 씬에 로드되었는지 확인하세요.");
             return;
         }
+
+
         switch (playerHealth.Health)
         {
             case 3:
-                heartImage.sprite = threeHearts;
+                hearts1.SetActive(true);    
+                hearts2.SetActive(true);    
+                hearts3.SetActive(true);    
                 break;
             case 2:
-                heartImage.sprite = twoHearts;
+                hearts1.SetActive(true);    
+                hearts2.SetActive(true);    
+                hearts3.SetActive(false);  
                 break;
             case 1:
-                heartImage.sprite = oneHeart;
+                hearts1.SetActive(true);    
+                hearts2.SetActive(false);    
+                hearts3.SetActive(false);  
                 break;
         }
     }
