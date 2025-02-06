@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: aa3e8bb79a556994292ae585f63a19b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8371477722368353661
+    second: King_Attack_Spritesheet_0
+  - first:
+      213: 4987013988738712424
+    second: King_Attack_Spritesheet_1
+  - first:
+      213: 3654872340932833180
+    second: King_Attack_Spritesheet_2
+  - first:
+      213: -482167672825727699
+    second: King_Attack_Spritesheet_3
+  - first:
+      213: -7509530574725845347
+    second: King_Attack_Spritesheet_4
+  - first:
+      213: 940430065397076242
+    second: King_Attack_Spritesheet_5
+  - first:
+      213: 996584462442625322
+    second: King_Attack_Spritesheet_6
+  - first:
+      213: -3627706758871629107
+    second: King_Attack_Spritesheet_7
+  - first:
+      213: -535503208997242585
+    second: King_Attack_Spritesheet_8
+  - first:
+      213: -277766951669852101
+    second: King_Attack_Spritesheet_9
+  - first:
+      213: -7707557105137532366
+    second: King_Attack_Spritesheet_10
+  - first:
+      213: 2903132873508949645
+    second: King_Attack_Spritesheet_11
+  - first:
+      213: -1218879321205083264
+    second: King_Attack_Spritesheet_12
+  - first:
+      213: 6960226007173035603
+    second: King_Attack_Spritesheet_13
+  - first:
+      213: 6170147276513798225
+    second: King_Attack_Spritesheet_14
+  - first:
+      213: -1238999843710147731
+    second: King_Attack_Spritesheet_15
+  - first:
+      213: -1275469825612528804
+    second: King_Attack_Spritesheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6c8771fb221d48a686f7afff651a1
+      internalID: -1984583114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6c145252582b54bae5af9f8c9dc56b
+      internalID: -1924142259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce0c4b3325ee84b9e29acffdd5c7e0
+      internalID: -7199300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc9586f80601b4d839cab317bce15b
+      internalID: 62307809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa74bee199aa5f14bb285c1d1d2537a3
+      internalID: 430000164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809d19f9d28332e4784446ffd3aa4f0b
+      internalID: 47999475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3bee721ff4f3f43a79961bdb092120
+      internalID: -1887131868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a510e5fae27c6f4e83d3ac3918cfaab
+      internalID: -1578843346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1500
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75f9b01ac6c2c740950b8b67050cd35
+      internalID: -1954618943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4c6c049598374f964171329cb819b
+      internalID: 1821441314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3904df8925e31544a1ff7a00fbf5090
+      internalID: 580835697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8fcbb2cfe7e7b4bb251b88c11126d4
+      internalID: -1377208443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5647f1a5f34aa42ac04723326f0189
+      internalID: -969072091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce1723b42310534e9e92bec23a4dcd2
+      internalID: 1237424507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24f930b42dc30c4f979ed66d83d83db
+      internalID: 1862661523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc30ce7fc73a0d4cabcd5ee32e04dc6
+      internalID: -966389738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Attack_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 1200
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97c424c4941fe44971aa5aeeb5997c
+      internalID: 1541899757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe3be9d386fe29e49a51bf2d5900b7f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      King_Attack_Spritesheet_0: -1984583114
+      King_Attack_Spritesheet_1: -1924142259
+      King_Attack_Spritesheet_10: 580835697
+      King_Attack_Spritesheet_11: -1377208443
+      King_Attack_Spritesheet_12: -969072091
+      King_Attack_Spritesheet_13: 1237424507
+      King_Attack_Spritesheet_14: 1862661523
+      King_Attack_Spritesheet_15: -966389738
+      King_Attack_Spritesheet_16: 1541899757
+      King_Attack_Spritesheet_2: -7199300
+      King_Attack_Spritesheet_3: 62307809
+      King_Attack_Spritesheet_4: 430000164
+      King_Attack_Spritesheet_5: 47999475
+      King_Attack_Spritesheet_6: -1887131868
+      King_Attack_Spritesheet_7: -1578843346
+      King_Attack_Spritesheet_8: -1954618943
+      King_Attack_Spritesheet_9: 1821441314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
