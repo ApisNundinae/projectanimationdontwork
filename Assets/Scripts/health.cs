@@ -25,5 +25,11 @@ public class health : MonoBehaviour
         }
     }
 
+    public void getFullHealth()
+    {
+        print("get full healyh");
+        Health = maxHealth;
+    }
+
 
 }
