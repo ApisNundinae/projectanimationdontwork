@@ -1166,6 +1166,9 @@ MonoBehaviour:
   threeHearts: {fileID: -347787443125554968, guid: 3f1682af016d4314e874173393fa51cb, type: 3}
   twoHearts: {fileID: -6844984848174147538, guid: 217744c5a1b7db0408533388f6364e84, type: 3}
   oneHeart: {fileID: 4358167426661875268, guid: 147639aef245ec14d838786dc02dfcf0, type: 3}
+  hearts1: {fileID: 0}
+  hearts2: {fileID: 0}
+  hearts3: {fileID: 0}
 --- !u!1 &715821766
 GameObject:
   m_ObjectHideFlags: 0
@@ -2334,6 +2337,9 @@ MonoBehaviour:
   threeHearts: {fileID: -347787443125554968, guid: 3f1682af016d4314e874173393fa51cb, type: 3}
   twoHearts: {fileID: -6844984848174147538, guid: 217744c5a1b7db0408533388f6364e84, type: 3}
   oneHeart: {fileID: 4358167426661875268, guid: 147639aef245ec14d838786dc02dfcf0, type: 3}
+  hearts1: {fileID: 865883695}
+  hearts2: {fileID: 2134717526}
+  hearts3: {fileID: 979383334}
 --- !u!1 &2018104249 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2477274235986182758, guid: 9656e36e022a43f499cd97a339c23d34, type: 3}
