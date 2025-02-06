@@ -10,13 +10,18 @@ public class health : MonoBehaviour
     public int Health;
     private hpSystem healthUI;
 
-    void Start()
+    void Awake()
     {
         Health = maxHealth;
         healthUI = FindAnyObjectByType<hpSystem>();
-        healthUI.UpdateHealthUI();
+
     }
 
+    void Start()
+    {
+        healthUI.UpdateHealthUI();
+    }
+    
     public void TakeDamage(int damage)
     {
         Health -= damage;

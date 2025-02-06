@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
@@ -48,7 +49,8 @@ public class GameRuleController : MonoBehaviour
 
     public void DisableItemSpawning()
     {
-        FindAnyObjectByType<itemSpawner>().StopSpawning();
+        enemy.SetItemDropAllowed(false);
+        Debug.Log("Item spawning disabled");
     }
 
     public void ClearInventory()
@@ -68,33 +70,6 @@ public class fogSystem : MonoBehaviour
     }
 }
 
-public class enemy : MonoBehaviour
-{
-    private float speed = 5.0f;
-
-    public void MultiplySpeed(float multiplier)
-    {
-        speed *= multiplier;
-    }
-}
-
-public class itemSpawner : MonoBehaviour
-{
-    private bool spawnAllowed = true;
-
-    void Update()
-    {
-        if (spawnAllowed)
-        {
-            // Spawn items but how ?? 
-        }
-    }
-
-    public void StopSpawning()
-    {
-        spawnAllowed = false;
-    }
-}
 
 public class inventory : MonoBehaviour
 {
@@ -104,5 +79,22 @@ public class inventory : MonoBehaviour
     {
         items.Clear();
         Debug.Log("Inventory cleared");
+    }
+}
+
+public class itemSpawner : MonoBehaviour
+{
+    private bool spawnAllowed = true;
+
+public void DisableItemDrops()
+    {
+        enemy.SetItemDropAllowed(false);
+        Debug.Log("drop item disabled");
+    }
+
+    public void EnableItemDrops()
+    {
+        enemy.SetItemDropAllowed(true);
+        Debug.Log("drop item enabled");
     }
 }

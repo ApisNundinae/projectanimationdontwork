@@ -91,5 +91,6 @@ public class PlayerController : MonoBehaviour
     public void ModifySpeed(float speedModifier)
     {
         moveSpeed += speedModifier;
+        Debug.Log("Ralentisseur {speedModifier}");
     }
 }
