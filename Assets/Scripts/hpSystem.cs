@@ -27,13 +27,6 @@ public class hpSystem : MonoBehaviour
     }
     public void UpdateHealthUI()
     {
-        if (playerHealth == null) // 🔥 `null` 체크 추가
-        {
-            Debug.LogError("⚠ `playerHealth`가 null입니다! `health`가 씬에 로드되었는지 확인하세요.");
-            return;
-        }
-
-
         switch (playerHealth.Health)
         {
             case 3:
