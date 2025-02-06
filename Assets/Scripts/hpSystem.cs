@@ -1,26 +1,35 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class hpSystem : MonoBehaviour
 {
-    public List<GameObject> hearts;
+    public Image heartImage;
+    public Sprite threeHearts;
+    public Sprite twoHearts;
+    public Sprite oneHeart;
+
     private health playerHealth;
 
     void Start()
     {
-        playerHealth = FindObjectOfType<health>();
+        playerHealth = FindAnyObjectByType<health>();
         UpdateHealthUI();
     }
 
     public void UpdateHealthUI()
     {
-        for (int i = 0; i < hearts.Count; i++)
+        switch (playerHealth.Health)
         {
-            if (i < playerHealth.Health)
-                hearts[i].SetActive(true);
-
-            else
-                hearts[i].SetActive(false);
+            case 3:
+                heartImage.sprite = threeHearts;
+                break;
+            case 2:
+                heartImage.sprite = twoHearts;
+                break;
+            case 1:
+                heartImage.sprite = oneHeart;
+                break;
         }
     }
 }

@@ -13,7 +13,7 @@ public class health : MonoBehaviour
     void Start()
     {
         Health = maxHealth;
-        healthUI = FindObjectOfType<hpSystem>();
+        healthUI = FindAnyObjectByType<hpSystem>();
         healthUI.UpdateHealthUI();
     }
 

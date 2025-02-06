@@ -13,15 +13,14 @@ public class PlayerCombat : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Attack();
+            attack();
         }
     }
 
-        void attack()
-        {
+    void attack()
+    {
 
-            animator.SetTrigger("attackfront");
+        animator.SetTrigger("attack");
 
-        }
     }
 }
