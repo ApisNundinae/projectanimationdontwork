@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      King_Back_Idle_Spreadsheet_0: 8613886192731969175
+      King_Back_Idle_Spreadsheet_1: -6103917286149791964
+      King_Back_Idle_Spreadsheet_2: -7798160274716282679
+      King_Back_Idle_Spreadsheet_3: -6387577379283726415
+      King_Back_Idle_Spreadsheet_4: 4581051564225573081
+      King_Back_Idle_Spreadsheet_5: 6289381602454439483
+      King_Back_Idle_Spreadsheet_6: -9201073807516551899
+      King_Back_Idle_Spreadsheet_7: 2005104665607282889
+      King_Back_Idle_Spreadsheet_8: 9025454778996379238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
