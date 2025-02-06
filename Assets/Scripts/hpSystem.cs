@@ -1,16 +1,26 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class hpSystem : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public List<GameObject> hearts;
+    private health playerHealth;
+
     void Start()
     {
-        
+        playerHealth = FindObjectOfType<health>();
+        UpdateHealthUI();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void UpdateHealthUI()
     {
-        
+        for (int i = 0; i < hearts.Count; i++)
+        {
+            if (i < playerHealth.Health)
+                hearts[i].SetActive(true);
+
+            else
+                hearts[i].SetActive(false);
+        }
     }
 }

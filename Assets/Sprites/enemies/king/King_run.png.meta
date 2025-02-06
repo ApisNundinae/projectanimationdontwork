@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      King_run_0: -32738829371429216
+      King_run_1: -6483336780454066603
+      King_run_10: 5889444092987845259
+      King_run_11: -4349136700322931637
+      King_run_12: 146819314397834275
+      King_run_13: 4314249466979276024
+      King_run_14: 6281803537142449887
+      King_run_15: 6357216427572166807
+      King_run_16: 6228385990074955412
+      King_run_17: -6493701985745255139
+      King_run_18: 8688810152073729933
+      King_run_19: -206209387611392032
+      King_run_2: 5161344960999512278
+      King_run_20: -4676612578962914727
+      King_run_21: -6752389509313026239
+      King_run_22: 7145866312119788950
+      King_run_23: -89996043340784837
+      King_run_3: -7561717141538915793
+      King_run_4: 6781086882507663989
+      King_run_5: 9216074128124955988
+      King_run_6: 761174432625332643
+      King_run_7: 8455865379477368645
+      King_run_8: -7977353126886331466
+      King_run_9: 3841288138331251263
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

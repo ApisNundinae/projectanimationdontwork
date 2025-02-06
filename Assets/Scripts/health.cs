@@ -8,27 +8,36 @@ public class health : MonoBehaviour
 
     public int maxHealth = 3;
     public int Health;
+    private hpSystem healthUI;
+
     void Start()
     {
         Health = maxHealth;
+        healthUI = FindObjectOfType<hpSystem>();
+        healthUI.UpdateHealthUI();
     }
 
     public void TakeDamage(int damage)
     {
-
         Health -= damage;
+
+        if (Health < 0)
+            Health = 0;
+
+        healthUI.UpdateHealthUI();
+
         if (Health <= 0)
         {
             //trigger death screen here uwu
-            Debug.Log("yes");
-
+            Debug.Log("Player Dead");
         }
     }
 
     public void getFullHealth()
     {
-        print("get full healyh");
+        print("get full health");
         Health = maxHealth;
+        healthUI.UpdateHealthUI();
     }
 
 
