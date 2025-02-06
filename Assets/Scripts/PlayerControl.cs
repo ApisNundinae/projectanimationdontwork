@@ -6,9 +6,10 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Player Settings")]
     [SerializeField] private float moveSpeed = 5.0f;
+    private bool controlsReversed = false;
 
     private Vector2 moveInput;
-    private Vector2 lastMoveDirection = Vector2.down; 
+    private Vector2 lastMoveDirection = Vector2.down;
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Animator anim;
@@ -37,7 +38,14 @@ public class PlayerController : MonoBehaviour
         moveInput.x = Input.GetAxisRaw("Horizontal");
         moveInput.y = Input.GetAxisRaw("Vertical");
 
+        if (controlsReversed)
+        {
+            moveInput.x *= -1;
+            moveInput.y *= -1;
+        }
+
         Vector2 moveDirection = new Vector2(moveInput.x, moveInput.y).normalized;
+        transform.position += (Vector3)moveDirection * moveSpeed * Time.deltaTime;
 
         if (moveDirection.magnitude > 0.01f)
         {
@@ -72,5 +80,16 @@ public class PlayerController : MonoBehaviour
         {
             anim.SetBool("isFacingLeft", false);
         }
+    }
+
+    public void ReverseControls()
+    {
+        controlsReversed = !controlsReversed;
+        Debug.Log("Controls Reversed: {controlsReversed}");
+    }
+
+    public void ModifySpeed(float speedModifier)
+    {
+        moveSpeed += speedModifier;
     }
 }
